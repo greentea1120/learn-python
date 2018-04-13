@@ -9,4 +9,3 @@ for x in a:
     if x == 2:
         continue
     print(x)
- 
